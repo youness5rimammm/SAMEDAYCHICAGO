@@ -3336,9 +3336,9 @@ p {
         border-radius: 20px;
         z-index: 99;
     }
-    .footer-section .middle-portion .icons.d-none {
+    /* .footer-section .middle-portion .icons.d-none {
         display: none !important;
-    }
+    } */
     section.customer-logos .slick-list .slick-track .slick-slide {
         margin: 0px 6px;
         width: 130px !important;
